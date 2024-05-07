@@ -1,6 +1,4 @@
-# Base de Conhecimento
-
-## By Luiz
+# My Memories
 
 # Assuntos
 - [CS2](jogos/cs2.md)
